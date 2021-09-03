@@ -283,9 +283,7 @@ class _LoginState extends State<Login> with SingleTickerProviderStateMixin {
                     ? 'Do not use the @ char.'
                     : null;
               },
-
               topLabel: "Email",
-
               hintText: "Enter E-mail",
               // prefixIcon: FlutterIcons.chevron_left_fea,
             ),
