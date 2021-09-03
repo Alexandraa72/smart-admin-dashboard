@@ -1,0 +1,4 @@
+#Fri Sep 03 11:59:03 ULAT 2021
+base.0=D\:\\Workspace\\smart-admin-dashboard-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
